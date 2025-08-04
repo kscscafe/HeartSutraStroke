@@ -1,0 +1,48 @@
+body {
+  font-family: sans-serif;
+  padding: 20px;
+  text-align: center;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#svg-container {
+    order: 1;
+}
+
+#kanji-list {
+    order: 2;
+}
+
+#kanji-list {
+  margin-bottom: 20px;
+}
+
+#kanji-list button {
+  font-size: 20px;
+  margin: 1px;
+  padding: 5px 10px;
+  cursor: pointer;
+}
+
+#svg-container {
+  width: 320px;
+  margin: 0 auto;
+}
+
+.kanji-svg {
+  display: none;
+  width: 100%;
+  height: auto;
+}
+
+.kanji-svg.active {
+  display: block;
+}
+
+path {
+  stroke-width: 4;
+  fill: none;
+}
