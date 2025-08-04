@@ -1,6 +1,3 @@
-# HeartSutraStroke
-Stroke order animation viewer for the 278 kanji in the Heart Sutra.
-
 # Heart Sutra Stroke Order Viewer（般若心経 書き順ビューア）
 This project provides a **stroke order animation viewer** for the 278 kanji characters used in the Heart Sutra (般若心経).  
 本プロジェクトは、般若心経に登場する278文字の漢字の書き順をアニメーションで表示するWebページです。
