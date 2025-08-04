@@ -28,7 +28,7 @@ This tool was created in response to requests from users of our digital shakyo (
 ## How to Use / 使い方
 Clone or download this repository and open `index.html` in any modern browser:
 
-ーーー
+---
 ## Folder Structure / フォルダ構成
 HeartSutraStroke/
 ├── index.html           # Main page with kanji list and stroke display
@@ -36,12 +36,12 @@ HeartSutraStroke/
 ├── script.js            # Click handler and SVG switching logic
 └── README.md            # This file
 
-ーーー
+---
 ## License / ライセンス
 This project is licensed under the MIT License.
 Stroke order data is provided by KanjiVG, also under the MIT License.
 
-ーーー
+---
 ## Acknowledgements / 謝辞
 KanjiVG – Stroke order SVG data
 
