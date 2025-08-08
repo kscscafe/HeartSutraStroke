@@ -46,3 +46,12 @@ path {
   stroke-width: 4;
   fill: none;
 }
+
+button ruby {
+  font-size: 1.0em;
+}
+
+button rt {
+  font-size: 0.5em;
+  color: #666;
+}
